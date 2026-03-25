@@ -31,8 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="1026" height="732" alt="Screenshot 2026-03-15 211409" src="https://github.com/user-attachments/assets/a3c2f6fb-dd98-48cf-ba94-dec003449114" />
 
 ### Output:
+<img width="1443" height="727" alt="Screenshot 2026-03-24 191817" src="https://github.com/user-attachments/assets/ce1f214d-e93c-4794-978c-f7d428227dc5" />
+<img width="1448" height="718" alt="Screenshot 2026-03-24 191848" src="https://github.com/user-attachments/assets/43d09331-a980-4fd8-b564-446254bfac5b" />
 
 
 ### Name:D.JANANI
